@@ -1,0 +1,9 @@
+git
+1. https://github.com/
+2. 저장소 만들기 new repository
+3. 비번 인증키 > 인증키 붙여넣기
+4. 이클립스 연동 - 프로젝트 만들기
+5.[window] - [show View] - [other] - [git] - git Repositories
+6.[git Repositories] clone a git repository
+7.프로젝트 선택후  - 오른쪽마우스 - Team > share project / 저장소 선택
+8.데이터 수정후 [Team] - [commit]
