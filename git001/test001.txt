@@ -6,4 +6,5 @@ git
 5.[window] - [show View] - [other] - [git] - git Repositories
 6.[git Repositories] clone a git repository
 7.프로젝트 선택후  - 오른쪽마우스 - Team > share project / 저장소 선택
-8.데이터 수정후 [Team] - [commit]
+8.데이터 수정후 [Team] - [commit] commit message 적고 플러스 누르고
+9.commit 버튼 누르기
